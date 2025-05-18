@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Lab Report: Diamonds-for-Sensing-Application"
+authors:
+  - family-names: "Koesling"
+    given-names: "Neill"
+  - family-names: "Horn"
+    given-names: "Paul"
+date-released: "2025-05-18"
+version: "0.1.0"
